@@ -8,6 +8,6 @@ Funcionalidad
 * Esta app permite a los uusuarios seleccionar y agregar recetas a una lista.
 
   
- https://marvelapp.com/project/6645915/design/90876762
+ https://marvelapp.com/prototype/bdh1dfj/screen/90876407
 
 
